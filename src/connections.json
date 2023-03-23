@@ -1,0 +1,224 @@
+[
+    {
+    "name" : "Aeron Greyjoy",
+    "house" : ["Greyjoy"],
+    "chapters" : {
+        "AFFC" : [1, 19]
+        },
+    "image" : "https://awoiaf.westeros.org/images/2/2e/Aeron_Greyjoy_Damphair_TheMico.jpg"
+    },
+    {
+    "name" : "Areo Hotah",
+    "house" : ["Martell"],
+    "chapters" : {
+        "AFFC" : [2],
+        "ADWD" : [38]
+        },
+    "image" : "https://awoiaf.westeros.org/images/0/0c/Areo_Hotah_TheMico.jpg"
+    },
+    {
+    "name" : "Arianne Martell",
+    "house" : ["Martell"],
+    "chapters" : {
+        "AFFC" : [21, 40]
+        },
+    "image" : "https://awoiaf.westeros.org/images/e/ee/Arianne_Martell_TheMico.jpg"
+    },
+    {
+    "name" : "Arya Stark",
+    "house" : ["Stark"],
+    "chapters" : {
+        "AGOT" : [7, 22, 32, 50, 65],
+        "ACOK" : [1, 5, 9, 14, 19, 26, 30, 38, 47 ,64],
+        "ASOS" : [3, 13, 17, 22, 29, 34, 39, 43, 47, 50, 52, 65, 74],
+        "AFFC" : [6, 22, 34]
+        },
+    "image" : "https://awoiaf.westeros.org/images/3/35/Arya_Stark_TheMico.jpg"
+    },
+    {
+    "name": "Arys Oakheart",
+    "house" : ["Oakheart", "Lannister"],
+    "chapters": {
+        "AFFC": [23]
+        },
+    "image" : "https://awoiaf.westeros.org/images/d/d1/Ser_Arys_Oakheart_TheMico.jpg"
+    },
+    {
+    "name" : "Asha Greyjoy",
+    "house" : ["Greyjoy"],
+    "chapters" : {
+        "AFFC" : [11],
+        "ADWD" : [26, 42, 62]
+        },
+    "image" : "https://awoiaf.westeros.org/images/9/97/Asha_Greyjoy_TheMico.jpg"
+    },
+    {
+    "name" : "Barristan Selmy",
+    "house" : ["Selmy", "Targaryen"],
+    "chapters" : {
+        "ADWD" : [55, 59, 67, 70]
+        },
+    "image" : "https://awoiaf.westeros.org/images/6/67/Barristan_Selmy_TheMico.jpg"
+    },
+    {
+    "name" : "Bran Stark",
+    "house" : ["Stark"],
+    "chapters" : {
+        "AGOT" : [1, 8, 17, 24, 37, 53, 66],
+        "ACOK" : [4, 16, 21, 28, 35, 46, 69],
+        "ASOS" : [9, 24, 40, 56],
+        "ADWD" : [4, 13, 34]
+        },
+    "image" : "https://awoiaf.westeros.org/images/9/97/Bran_Stark_TheMico.jpg"
+    },
+    {
+    "name" : "Brienne of Tarth",
+    "house" : ["Tarth"],
+    "chapters" : {
+        "AFFC" : [4, 9, 14, 20, 25, 31, 37, 42]
+        },
+    "image" : "https://awoiaf.westeros.org/images/4/42/Brienne_of_Tarth_TheMico.jpg"
+    },
+    {
+    "name" : "Catelyn Tully",
+    "house" : ["Tully"],
+    "chapters" : {
+        "AGOT" : [2, 6, 14, 18, 28, 34, 40, 55, 59, 63, 71],
+        "ACOK" : [7, 22, 31, 33, 39, 45, 47],
+        "ASOS" : [2, 14, 20, 35, 45, 49, 51]
+        },
+    "image" : "https://awoiaf.westeros.org/images/f/fe/Catelyn_Tully_Stark_TheMico.jpg"
+    },
+    {
+    "name" : "Cersei Lannister",
+    "house" : ["Lannister"],
+    "chapters" : {
+       "AFFC" : [3, 7, 12, 17, 24, 28, 32, 36, 39, 43],
+       "ADWD" : [54, 65]
+        },
+    "image" : "https://awoiaf.westeros.org/images/1/12/Cersei_Lannister_TheMico.jpg"
+    },
+    {
+    "name" : "Daenerys Targaryen",
+    "house" : ["Targaryen"],
+    "chapters" : {
+       "AGOT" : [3, 11, 23, 36, 46, 54, 61, 64, 68, 72],
+       "ACOK" : [12, 27, 40, 48, 63],
+       "ASOS" : [8, 23, 27, 42, 57, 71],
+       "ADWD" : [2, 11, 16, 23, 30, 36, 43, 50, 52, 71]
+        },
+    "image" : "https://awoiaf.westeros.org/images/4/43/Daenerys_Targaryen_TheMico.jpg"
+    },
+    {
+    "name" : "Davos Seaworth",
+    "house" : ["Seaworth", "Baratheon"],
+    "chapters" : {
+       "ACOK" : [10, 42, 58],
+       "ASOS" : [5, 10, 25, 36, 54, 63],
+       "ADWD" : [9, 15, 19, 29]
+        },
+    "image" : "https://awoiaf.westeros.org/images/0/01/Davos_Seaworth_TheMico.jpg"
+    },
+    {
+    "name" : "Eddard Stark",
+    "house" : ["Stark"],
+    "chapters" : {
+        "AGOT" : [4, 12, 16, 20, 25, 27,30, 33, 35, 39, 43, 45, 47, 49, 58]
+        },
+    "image" : "https://awoiaf.westeros.org/images/a/a6/Eddard_Stark_TheMico.jpg"
+    },
+    {
+    "name" : "Jaime Lannister",
+    "house" : ["Lannister"],
+    "chapters" : {
+       "ASOS" : [1, 11, 21, 31, 37, 44, 62, 67, 72],
+       "AFFC" : [8, 16, 27, 30, 33, 38, 44],
+       "ADWD" : [48]
+        },
+    "image" : "https://awoiaf.westeros.org/images/b/ba/Ser_Jaime_Lannister_TheMico.jpg"
+    },
+    {
+    "name" : "Jon Connington",
+    "house" : ["Connington"],
+    "chapters" : {
+        "ADWD" : [24, 61]
+        },
+    "image" : "https://awoiaf.westeros.org/images/9/99/Jon_Connington_TheMico.jpg"
+    },
+    {
+    "name" : "Jon Snow",
+    "house" : ["Stark", "The Night's Watch"],
+    "chapters" : {
+        "AGOT" : [5, 10, 19, 26, 41, 48, 52, 60, 70],
+        "ACOK" : [6, 13, 23, 34, 43, 51, 53, 68],
+        "ASOS" : [7, 15, 26, 30, 41, 48, 55, 64, 69, 73, 76, 79],
+        "ADWD" : [3, 7, 10, 17, 21, 28, 35, 39, 44, 49, 53, 58, 69]
+        },
+    "image" : "https://awoiaf.westeros.org/images/8/85/Jon_Snow_TheMico.jpg"
+    },
+    {
+    "name" : "Melisandre",
+    "house" : ["R'hllor","Baratheon"],
+    "chapters" : {
+        "ADWD" : [31]
+        },
+    "image" : "https://awoiaf.westeros.org/images/0/09/Melisandre_of_Asshai_TheMico.jpg"
+    },
+    {
+    "name" : "Quentyn Martell",
+    "house" : ["Martell"],
+    "chapters" : {
+        "ADWD" : [6, 25, 60, 68]
+        },
+    "image" : "https://awoiaf.westeros.org/images/0/0e/Quentyn_Martell_TheMico.jpg"
+    },
+    {
+    "name" : "Samwell Tarly",
+    "house" : ["Tarly", "The Night's Watch"],
+    "chapters" : {
+       "ASOS" : [18, 33, 46, 75, 78],
+       "AFFC" : [5, 15, 26, 35, 45]
+        },
+    "image" : "https://awoiaf.westeros.org/images/4/41/Samwell_Tarly_TheMico.jpg"
+    },
+    {
+    "name" : "Sansa Stark",
+    "house" : ["Stark"],
+    "chapters" : {
+        "AGOT" : [15, 29, 44, 51, 57, 67],
+        "ACOK" : [2, 18, 32, 52, 57, 60, 62, 65],
+        "ASOS" : [6, 16, 28, 59, 61, 68, 80],
+        "AFFC" : [10, 23, 41]
+        },
+    "image" : "https://awoiaf.westeros.org/images/d/d1/Sansa_Stark_TheMico.jpg"
+    },
+    {
+    "name" : "Theon Greyjoy",
+    "house" : ["Greyjoy"],
+    "chapters" : {
+        "ACOK" : [11, 24, 37, 50, 56, 66],
+        "ADWD" : [12, 20, 32, 37, 41, 46, 51]
+        },
+    "image" : "https://awoiaf.westeros.org/images/2/21/Theon_Greyjoy_TheMico.jpg"
+    },
+    {
+    "name" : "Tyrion Lannister",
+    "house" : ["Lannister"],
+    "chapters" : {
+        "AGOT" : [9, 13, 21, 31, 38, 42, 56, 62, 69],
+        "ACOK" : [3, 8, 15, 17, 20, 25, 29, 36, 41, 44, 49, 54, 59, 61, 67],
+        "ASOS" : [4, 12, 19, 32, 38, 53, 58, 60, 66, 70, 77],
+        "ADWD" : [1, 5, 8, 14, 18, 22, 27, 33, 40, 47, 57, 66]
+        },
+    "image" : "https://awoiaf.westeros.org/images/9/92/Tyrion_Lannister_TheMico.jpg"
+    },
+    {
+    "name" : "Victarion Greyjoy",
+    "house" : ["Greyjoy"],
+    "chapters" : {
+        "AFFC" : [18, 29],
+        "ADWD" : [56, 63]
+        },
+    "image" : "https://awoiaf.westeros.org/images/7/73/Victarion_Greyjoy_TheMico.jpg"
+    }
+]
