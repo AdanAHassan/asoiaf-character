@@ -1,14 +1,31 @@
 import CharacterCard from "./Content/CharacterCard";
 import FilterSelector from "./Content/FilterSelector";
 import {Stack} from '@mui/material'
-import {useState} from "react"
+import {useState, useEffect} from "react"
 
 const Content = () => {
-
-  let json = require("./connections.json")
-
+    const [json, setJson] = useState([])
+    
+    const getData = () => {
+        fetch("https://copper-chipmunk-gear.cyclic.app/character")
+            .then(response => response.json())
+            .then((data) => {
+                console.log(data)
+                setJson(data)
+            })
+            .catch((err) => {
+                console.log(err)
+            })
+        }
+    
+    
+    useEffect(() => {
+        getData()
+    }, [])
+    
     const [type, setType] = useState("")
     
+    console.log(json)
 let filtered = []
 
 /**
