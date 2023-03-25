@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/asoiaf-characters/static/js/main.b3b4cc11.js",
-    "index.html": "/asoiaf-characters/index.html",
-    "main.b3b4cc11.js.map": "/asoiaf-characters/static/js/main.b3b4cc11.js.map"
+    "main.js": "/asoiaf-character/static/js/main.b3b4cc11.js",
+    "index.html": "/asoiaf-character/index.html",
+    "main.b3b4cc11.js.map": "/asoiaf-character/static/js/main.b3b4cc11.js.map"
   },
   "entrypoints": [
     "static/js/main.b3b4cc11.js"
